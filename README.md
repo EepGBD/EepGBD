@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EepGBD (nie/nem/nir) aka Erika (but just use Eep)
+- 👋 Hi, I’m @EepGBD (nie/nem/nir)
 - 👀 I’m interested in neutronics, atomic force microscopy, and dark matter detection
-- 🌱 I’m currently learning OpenMC
+- 🌱 I’m currently learning OpenMC and LibreOffice BASIC
 - 💞️ I’m looking to collaborate on computational physics projects
 - 📫 How to reach me: mixelydia@gmail.com
 
